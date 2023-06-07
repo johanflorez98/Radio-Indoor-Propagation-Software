@@ -11,4 +11,4 @@ The next image show process to calculate RME and CME:
 
 ## Cite as
 
-Florez-Gonzalez Andres J., & Viteri-Mera Carlos A. (2023). Radio Indoor Propagation Software (V1.0). Zenodo. https://doi.org/10.5281/zenodo.8012406
+Andres J. Florez-Gonzalez., & Carlos A. Viteri-Mera. (2023). Radio Indoor Propagation Software (V1.0). Zenodo. https://doi.org/10.5281/zenodo.8012406
