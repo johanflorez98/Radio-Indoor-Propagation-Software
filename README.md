@@ -7,7 +7,7 @@ Is available the code to generate the random postions APs's set, too.Is importan
 
 The next image show process to calculate RME and CME:
 
-![Process to design RME and CME WLANs.](Files/processRME.png)
+![Process to design RME and CME WLANs.](Files/processRME_.png)
 
 ## Cite as
 
