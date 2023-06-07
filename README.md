@@ -4,3 +4,7 @@ We introducing a software implemented in [Matlab](www.mathworks.com/products/mat
 Aditionaly, the software require to read a APs postions's set. These ones can be to loaded like matrix or the code could be modified to generate these one here.
 
 Is available the code to generate the random postions APs's set, too.Is important know that these ones are generated according the plan expected size.
+
+The next image show process to calculate RME and CME:
+
+![Process to design RME and CME WLANs.](Files/processRME.png)
