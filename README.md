@@ -10,7 +10,7 @@ The next image show process to calculate RME and CME:
 ![Process to design RME and CME WLANs.](Files/processRME_.png)
 
 ## Cite as
-
+```
 @software{andres_j_florez_gonzalez_2023_8012406,
   author       = {Andres J. Florez-Gonzalez. and
                   Carlos A. Viteri-Mera.},
@@ -22,3 +22,4 @@ The next image show process to calculate RME and CME:
   doi          = {10.5281/zenodo.8012406},
   url          = {https://doi.org/10.5281/zenodo.8012406}
 }
+```
