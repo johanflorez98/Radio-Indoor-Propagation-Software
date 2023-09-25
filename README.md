@@ -9,6 +9,8 @@ The next image show process to calculate RME and CME:
 
 ![Process to design RME and CME WLANs.](Files/processRME_.png)
 
+Execute the principal archive [index](https://github.com/johanflorez98/Radio-Indoor-Propagation-Software/blob/main/Codes/index.m).
+
 ## Cite as
 ```
 @software{andres_j_florez_gonzalez_2023_8012406,
